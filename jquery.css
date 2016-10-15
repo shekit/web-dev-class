@@ -1,0 +1,13 @@
+.red {
+	color: red;
+	font-size: 42px;
+}
+
+.blue {
+	background: blue;
+	font-weight: bold;
+}
+
+.big {
+	font-size: 72px;
+}
